@@ -24,8 +24,8 @@
         <ikonli.version>11.3.5</ikonli.version>
         <sonar.projectKey>dlsc-software-consulting-gmbh_CalendarFX2
         </sonar.projectKey>
-        <sonar.organization>dlsc-software-consulting-gmbh</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.organization>cicerone</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.moduleKey>${project.artifactId}</sonar.moduleKey>
     </properties>
 
